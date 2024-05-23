@@ -26,6 +26,8 @@
 </p>
 
 
+<h3 align="center">GitHub Stats de los últimos 7 días:</h3>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RebeMedina&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
@@ -35,10 +37,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RebeMedina&layout=compact&theme=radical&range=last_year" alt="Wakatime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RebeMedina&layout=compact&theme=radical&range=last_7_days" alt="Wakatime Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=RebeMedina&theme=darkhub" alt="Trophies" />
 </p>
-
