@@ -1,7 +1,6 @@
 <h1 align="center">Hola 🤗, soy Rebeca Medina 👩🏾‍💻</h1>
 <h3 align="center">Soy una desarrolladora frontend apasionada por la creación de interfaces web modernas y 
-receptivas. Me considero una persona creativa, organizada, con gran capacidad de 
-aprendizaje y trabajo en equipo.</h3>
+receptivas.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
