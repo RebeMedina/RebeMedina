@@ -43,8 +43,8 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RebeMedina&layout=&theme=radical&range=last_7_days" alt="Wakatime Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RebeMedina&theme=darkhub" alt="Trophies" />
+<p align="rigth">
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=RebeMedina&theme=dark" alt="RebeMedina" />
 </p>
 
 
