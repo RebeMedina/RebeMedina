@@ -1,3 +1,4 @@
+
 <div id="header" align="center">
   <img decoding="async" src="https://media.licdn.com/dms/image/D4D16AQEwS0lzC0hwPQ/profile-displaybackgroundimage-shrink_350_1400/0/1708646083159?e=1721865600&v=beta&t=Y__G41OI2RVt8Gw2yRFSz05hRE4thHTBgwTinDWznbc" width="1000"/>
 </div>
@@ -33,11 +34,11 @@
 <h3 align="center">GitHub Stats de los últimos 7 días:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RebeMedina&layout=compact&theme=radical&langs_count=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RebeMedina&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="rigth">
-  <img src="https://github-readme-stats.vercel.app/api?username=RebeMedina&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RebeMedina&layout=compact&theme=radical&langs_count=10" alt="Top Languages" />
 </p>
 
 <p align="end">
