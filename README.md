@@ -1,6 +1,5 @@
 <h1 align="center">Hola 🤗, soy Rebeca Medina 👩🏾‍💻</h1>
-<h3 align="center">Soy una desarrolladora frontend apasionada por la creación de interfaces web modernas y 
-receptivas.</h3>
+<h3 align="center">Soy una desarrolladora frontend apasionada por la creación de interfaces web modernas y receptivas.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,4 +22,25 @@ receptivas.</h3>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
 </p>
+
+
+<h3 align="center">GitHub Stats desde 2020:</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RebeMedina&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RebeMedina&layout=compact&theme=radical&langs_count=10" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RebeMedina&layout=compact&theme=radical&range=last_year" alt="Wakatime Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RebeMedina&theme=darkhub" alt="Trophies" />
+</p>
+
