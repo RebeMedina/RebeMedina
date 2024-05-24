@@ -40,7 +40,7 @@
 
 <h3 align="center">GitHub Stats for the last 7 days:</h3>
 
-<p align="center">
+<p align="end">
   <img src="https://github-readme-stats.vercel.app/api?username=RebeMedina&count_private=true&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
